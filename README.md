@@ -30,6 +30,6 @@ Features and Requirements
    ```bash
    git clone https://github.com/gustavogabaldon/Data-Processing-and-Storage.git
    cd Data-Processing-and-Storage
-3. Run the code: python transactional_inmemory_db.py.py
+3. Run the code: python transactional_inmemory_db.py
 
 
