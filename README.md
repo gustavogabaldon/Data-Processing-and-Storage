@@ -34,10 +34,10 @@ Features and Requirements
 
 ## Future Assignment Improvements
 
-Add more robust error handling for edge cases
-Implement nested transaction support
-Add persistent storage option
-Create more comprehensive test cases covering complex scenarios
-Add type hinting and more detailed documentation for each method
+- Add more robust error handling for edge cases
+- Implement nested transaction support
+- Add persistent storage option
+- Create more comprehensive test cases covering complex scenarios
+- Add type hinting and more detailed documentation for each method
 
 
