@@ -32,4 +32,12 @@ Features and Requirements
    cd Data-Processing-and-Storage
 3. Run the code: python transactional_inmemory_db.py
 
+## Future Assignment Improvements
+
+Add more robust error handling for edge cases
+Implement nested transaction support
+Add persistent storage option
+Create more comprehensive test cases covering complex scenarios
+Add type hinting and more detailed documentation for each method
+
 
